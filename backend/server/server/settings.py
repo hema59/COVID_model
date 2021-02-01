@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     #adding django rest framework
     'rest_framework',
     #adding endpoints
-     'apps.endpoints'
+     'apps.endpoints', 'apps.ml'
 
 ]
 
